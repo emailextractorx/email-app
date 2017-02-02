@@ -1,3 +1,3 @@
 # email-application
-Created a powerful email extractor plus email verifier all in one. Fast app to find email
+Fast email extractor plus email verifier all in one. Nice app to find emails
 from Mark @ https://www.emailextractorx.com/
